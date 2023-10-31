@@ -1,2 +1,2 @@
-Validity={'Tractebel':True,'Atkin':True}
+Validity={'Tractebel':True,'Atkins':True}
 Supported_version={'v0.2':True}
